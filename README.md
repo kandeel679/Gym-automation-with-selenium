@@ -1,1 +1,1 @@
-# Gym-automation-with-Selenuim
+# Gym-automation-with-selenium
